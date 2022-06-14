@@ -1,5 +1,5 @@
 ## 🛠  Technologies and tools
-[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js" alt="VueJS" title="Microsoft SQL Server" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Vue2-282C34?logo=Vue.js" alt="VueJS" title="Microsoft SQL Server" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -30,6 +30,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_now_anchor]
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Vue3-282C34?logo=Vue.js" alt="VueJS" title="Microsoft SQL Server" height="25" />][learning_now_anchor]
 &nbsp;
 
 [tech_tools_anchor]: #

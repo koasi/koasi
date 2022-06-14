@@ -22,7 +22,8 @@
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
 
-
+[<img src="https://img.shields.io/badge/Nginx-282C34?logo=Nginx" alt="Nginx logo" title="Nginx" height="25" />][tech_tools_anchor]
+&nbsp;
 
 ## 📖  What I am currently learning / improving on
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]

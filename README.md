@@ -8,13 +8,13 @@
 
 [<img src="https://img.shields.io/badge/Python-282C34?logo=Python" alt="py logo" title="py" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Pandas-282C34?logo=Pandas" alt="Pandas logo" title="Pandas" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Pandas-282C34?logo=Pandas&logoColor=150458" alt="Pandas logo" title="Pandas" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Apache Airflow-282C34?logo=Apache Airflow" alt="Apache Airflow logo" title="Apache Airflow" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Apache Airflow-282C34?logo=Apache Airflow&logoColor=017CEE" alt="Apache Airflow logo" title="Apache Airflow" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/OracleSQL-282C34?logo=Oracle" alt="Oracle logo" title="Oracle" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/OracleSQL-282C34?logo=Oracle&logoColor=F80000" alt="Oracle logo" title="Oracle" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/MSSQL-282C34?logo=Microsoft SQL Server" alt="MSSQL logo" title="Microsoft SQL Server" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/MSSQL-282C34?logo=Microsoft SQL Server&logoColor=CC2927" alt="MSSQL logo" title="Microsoft SQL Server" height="25" />][tech_tools_anchor]
 &nbsp;
 
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
@@ -22,7 +22,7 @@
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
 
-[<img src="https://img.shields.io/badge/Nginx-282C34?logo=Nginx" alt="Nginx logo" title="Nginx" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Nginx-282C34?logo=Nginx&logoColor=009639" alt="Nginx logo" title="Nginx" height="25" />][tech_tools_anchor]
 &nbsp;
 
 ## 📖  What I am currently learning / improving on

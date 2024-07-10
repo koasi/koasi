@@ -25,6 +25,9 @@
 [<img src="https://img.shields.io/badge/Nginx-282C34?logo=Nginx&logoColor=009639" alt="Nginx logo" title="Nginx" height="25" />][tech_tools_anchor]
 &nbsp;
 
+[<img src="https://img.shields.io/badge/ApacheSpark-282C34?logo=apachespark&logoColor=#E25A1C" alt="Spark" title="Apache Spark" height="25" />][tech_tools_anchor]
+&nbsp;
+
 ## 📖  What I am currently learning / improving on
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
